@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Sintony&display=swap');
+*{
+    font-family: 'Sintony', sans-serif;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: #222;
+}
+header {
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+}
+h1 {
+    margin: 0;
+    color: aliceblue;
+}
+nav ul {
+    list-style: none;
+    margin: 10px 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+section {
+    padding: 40px;
+    color: aliceblue;
+    text-align: center;
+}
+.project {
+    margin-bottom: 20px;
+}
+.contact-list {
+    list-style: none;
+    padding: 0;
+}
+footer {
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}
